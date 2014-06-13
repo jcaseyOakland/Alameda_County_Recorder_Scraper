@@ -116,9 +116,9 @@ def fetch(base_url, params):
     #CHANGE TO CHANGE FORM LOOKUP
 
     #params["txtName"] = ""
-    params["selDocType"]="A03"   
-    params["txtDateFiledFr"]="01/01/2012"
-    params["txtDateFiledTo"]="01/09/2013"
+    params["selDocType"]="A36"   
+    params["txtDateFiledFr"]="11/07/2013"
+    params["txtDateFiledTo"]="06/13/2014"
        
     
 # params["cmdSearch"] = "Search"
