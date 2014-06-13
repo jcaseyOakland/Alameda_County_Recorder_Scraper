@@ -117,7 +117,7 @@ def fetch(base_url, params):
 
     #params["txtName"] = ""
     params["selDocType"]="A36"   
-    params["txtDateFiledFr"]="11/07/2013"
+    params["txtDateFiledFr"]="02/8/2014"
     params["txtDateFiledTo"]="06/13/2014"
        
     
